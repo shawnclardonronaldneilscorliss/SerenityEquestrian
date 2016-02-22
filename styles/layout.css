@@ -1,0 +1,33 @@
+﻿body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	color: #FFFFFF;
+	background-color: #000000;
+}
+#container {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+#masthead {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+#navigation {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-color: #000000;
+}
+#content {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+#footer {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}

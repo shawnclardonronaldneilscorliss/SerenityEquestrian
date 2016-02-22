@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../master.dwt" -->
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta name='author' content="Shawn Clardon Corliss" />
+<meta name="keywords" content="horse back riding lessons,horse camps for kids,natural horsemanship in Lethbridge,summer horse camps,horse birthday parties,farm school tours,childrens riding lessons in lethbridge,womens riding lessons in lethbridge,learning about horses" />
+<meta name="description" content="Serenity Equestrian" />
+<!-- #BeginEditable "doctitle" -->
+<title>~ Serenity Equestrian ~Leases</title>
+<!-- #EndEditable -->
+<link href="../styles/style3.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<!-- Begin Container -->
+<div id="container" style="width: 740px;">
+	<!-- Begin Masthead -->
+	<div id="masthead" style="height: 205px; width: 736px;"></div>
+	<!-- End Masthead -->
+	<!-- Begin Navigation -->
+	<div id="navigation" style="left: 0px; top: 0px; height: 284px;">
+		<ul>
+			<li><a href="../default.html">Home</a></li>
+			<li><a href="../Seasonal_Camps/seasonalcamps_summer.htm">Seasonal Camps</a></li>
+			<li><a href="../lessons/lessons.htm">Lessons</a></li>
+			<li><a href="../lessons/Types/wandh.htm">Women and Horses</a></li>
+			<li><a href="Board_and_leases.htm">Leasing</a></li>
+			<li><a href="../Tours/tours.htm">School Tours</a></li>
+			<li><a href="../photo_gallery/photo_gallery.htm">Barnyard Buddies</a></li>
+			<li><a href="../faq/faq.htm">FAQ</a></li>
+			<li><a href="../Forms/Forms.htm">Registrations &amp; Releases</a></li>
+			<li><a href="../contact/contact.htm">Contact Us</a></li>
+		</ul>
+	</div>
+	<!-- End Navigation -->
+	<!-- Begin Content -->
+	<div id="content" style="width: 557px;">
+		<!-- #BeginEditable "content" -->
+		<h2>Leasing</h2>
+		<h3>Getting to ride on your own time other than your lesson</h3>
+		<p>
+		<ul>
+			<li>Must be taking classes.
+			</li>
+			<li>Must be at an appropriate level of confidence &amp; safety.</li>
+			<li>Must be able to demonstrate responsibility.</li>
+			<li>Talk to Lori to see if you are ready.</li>
+			<h4>~ Lease rates vary according to seasons ~ </h4>
+		</ul>
+		</p>
+		<table>
+		<tr>
+		<td>
+		<h3>Lease option #1</h3>
+		<ul>
+			<li>June 1<em>st</em> - Oct 31<em>st</em>
+			</li>
+			<li>$210 a month</li>
+		</ul>
+		<h3>Lease option #2</h3>
+		<ul>
+			<li>Nov 1<em>st</em> - May 30<em>th</em> </li>
+			<li>$105 a month</li>
+		</ul>
+		</td>
+		<td><img  alt="Horse looking over"style="border:0px"src="../images/lookingback2.png" /></td>
+		</tr>
+		</table>
+		<hr />
+		<h3>~ In the summer months students can ride when camps are not in session ~ </h3>
+		<!-- #EndEditable "content" --></div>
+	<!-- End Content -->
+	<!-- Begin Footer -->
+	<div id="footer" style="width: 736px;">
+		<p style="width: 736px;">
+		<a href="../default.html">Home</a> &brvbar;
+		<a href="../Seasonal_Camps/seasonalcamps_summer.htm">Seasonal Camps</a> &brvbar;
+		<a href="../lessons/lessons.htm">Lessons</a> &brvbar;
+		<a href="../lessons/Types/wandh.htm">Women and Horses</a> &brvbar;
+		<a href="Board_and_leases.htm">Leasing </a>&nbsp;&brvbar;
+		<a href="../Tours/tours.htm">School Tours</a>  
+		<a href="../photo_gallery/photo_gallery.htm">Barnyard Buddies</a> &brvbar;
+		<a href="../faq/faq.htm">FAQ</a> &brvbar;
+		<a href="../Forms/Forms.htm">Registrations &amp; Releases</a> &brvbar;
+		<a href="../contact/contact.htm">Contact Us</a> &brvbar;
+		<a href="../credits/credits.htm">Credits</a></p>
+	</div>
+	<!-- End Footer --></div>
+<!-- End Container -->
+
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

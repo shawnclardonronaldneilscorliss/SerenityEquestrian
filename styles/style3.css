@@ -1,0 +1,139 @@
+﻿@import url("layout.css");
+body {
+	font-family: "Times New Roman", Times, serif;
+	font-size: large;
+	background-color: #a60;
+	background-image: url('../images/black.png');
+	background-repeat: repeat;
+	background-attachment: scroll;
+	color: #FFFFFF;
+}
+#container {
+	width: 1024px;
+	margin: 10px auto;
+}
+#masthead {
+	text-align: center;
+	width:1024px;
+	border: 5px solid #431;
+	background-color: #fff;
+	background-image:url('../images/grass_wideheader_Final2.png');
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+}
+#navigation {
+	position: relative;
+	float: left;
+	width: 148px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	border: 0px solid #431;
+	background-color: #000000;
+}
+#content {
+	float: left;
+	width: 583px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	padding: 1px;
+	border: 1px solid #431;
+	background-color:black;
+}
+#footer {
+	text-align: center;
+	clear: both;
+	width: 698px;
+	padding: 0px;
+	border: 1px solid #431;
+	background-color: #000000;
+}
+/* Masthead Styles */
+#masthead h1 {
+	color: #800000;
+}
+#masthead h3 {
+visibility: hidden;
+	color: #542;
+}
+/* Navigation Styles */
+#navigation ul {
+	list-style-type: none;
+	width: 100%;
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+#navigation li {
+	display: block;
+	margin: 0;
+	padding: 0;
+	border: 1px solid #fff;
+	background-color:black;
+}
+#navigation a {
+	color: #a60;
+	text-decoration: none;
+	display: block;
+	padding: 5px;
+	border: 1px solid #fff;
+	background-color: #000000;
+}
+#navigation a:hover {
+	color: #fff;
+	text-decoration: none;
+	border: 1px solid #964;
+	background-color: #964;
+}
+/* Content Styles */
+#content h1,h2,h3,h4,h5,h6 {
+	color: #a60;
+	background-color: #AAAAA;
+}
+#content img {
+	padding: 5px;
+	border: 1px solid #964;
+	border-left-color: #996644;
+}
+/* Footer Styles */
+#footer p {
+	color: #808080;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+#footer a {
+	color: #a60;
+	text-decoration: underline;
+}
+#footer a:hover {
+	color: #853;
+	text-decoration: none;
+}
+a {
+	color: #a60;
+	text-decoration: underline;
+}
+a:hover {
+	color: #742;
+	text-decoration: underline;
+}
+.style_bold {
+	font-weight: bold;
+	color: #AA6600;
+}
+.style_bold_noMargin {
+	font-weight: bold;
+	color: #AA6600;
+	margin-bottom:0px;
+}
+.style_italic {
+	font-style: italic;
+}
+.style1 {
+margin-top:0PX;
+margin-bottom:0PX;
+	font-size: xx-large;
+	font-family: "Segoe Script";
+}

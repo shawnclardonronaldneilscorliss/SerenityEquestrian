@@ -1,0 +1,1 @@
+Text for logos is Sagoe print, Black, size 48

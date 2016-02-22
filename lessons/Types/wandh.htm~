@@ -1,0 +1,131 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "../../master.dwt" -->
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta name='author' content="Shawn Clardon Corliss" />
+<meta name="keywords" content="horse back riding lessons,horse camps for kids,natural horsemanship in lethbridge,summer horse camps,horse birthday parties,farm school tours,childrens riding lessons in lethbridge,womens riding lessons in lethbridge,learning about horses" />
+<meta name="description" content="Serenity Equestrian" />
+<!-- #BeginEditable "doctitle" -->
+<title>~ Serenity Equestrian ~ Women and Horses</title>
+<style type="text/css">
+.style1 {
+	font-family: "Segoe Script";
+	font-size: xx-large;
+}
+</style>
+<!-- #EndEditable -->
+
+<link href="../../styles/style3.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<!-- Begin Container -->
+<div id="container" style="width: 740px;">
+	<!-- Begin Masthead -->
+	<div id="masthead" style="height: 205px; width: 736px;"></div>
+	<!-- End Masthead -->
+	<!-- Begin Navigation -->
+	<div id="navigation" style="left: 0px; top: 0px; height: 284px;">
+		<ul>
+			<li><a href="../../default.html">Home</a></li>
+			<li><a href="../../Seasonal_Camps/seasonalcamps_summer.htm">Seasonal Camps</a></li>
+			<li><a href="../lessons.htm">Lessons</a></li>
+			<li><a href="wandh.htm">Women and Horses</a></li>
+			<li><a href="../../Board_and_leases/Board_and_leases.htm">Boarding &amp; Leasing</a></li>
+			<li><a href="../../Tours/tours.htm">School Tours</a></li>
+			<li><a href="../../bdays/BDays.htm">Birthday Parties</a></li>
+			<li><a href="../../photo_gallery/photo_gallery.htm">Barnyard Buddies</a></li>
+			<li><a href="../../faq/faq.htm">FAQ</a></li>
+			<li><a href="../../Forms/Forms.htm">Registrations &amp; Releases</a></li>
+			<li><a href="../../contact/contact.htm">Contact Us</a></li>
+		</ul>
+	</div>
+	<!-- End Navigation -->
+	<!-- Begin Content -->
+	<div id="content" style="width: 557px;">
+		<!-- #BeginEditable "content" -->
+		<h1 class="style1" style="text-align:center">Women &amp; Horses</h1>
+		<hr />
+		<table>
+			<tr>
+				<td style="width: 208px">
+					<p><span class="style_bold">Summer Group Lessons<br /><br /></span>
+					<span class="style_italic">Mon, Tues &amp; Wed </span><br /> 
+					   <span class="style_italic">from 7:00-9:00 for two weeks</span><br />
+					   Cost
+					   $ 252
+				   </p>
+						<p><span class="style_bold">Session 1:</span>July 11-13<em>th</em><br />
+						<span class="style_bold">Session 2:</span>Aug 15-17<em>th</em></p>
+						<p><br />
+					</p>
+				</td>
+				<td>
+					<ul> 
+						<li>Learn ground skills in natural horsemanship.</li>
+						<li>Take time in nature to breath and relax</li>
+						<li>Feel how these magnificent animals help you become calm.</li>
+						<li>Be with an animal who could easily choose not to be with 
+							 you but will give you every chance to become skilled at 
+							 &quot;speaking&quot; equine.</li>
+					</ul>
+				</td>
+			</tr>
+		</table>
+			<table  width="100%"style="background-image:url('../../images/Women_Horses_Image.jpg');background-repeat:no-repeat">
+			<tr>
+			<td style="width: 384px">
+				<strong style="color:black">Horses 
+						mirror us, they can also tell when we are being authentic. 
+						In this program we will start to work on trusting our heart 
+						and gut to give us direction instead of relying solely on 
+						our minds. We will work on using our energy and the 
+						slightest movement to direct the horse.<br />
+						Animals and nature can be our<br />
+						greatest teachers.
+				</strong>
+			</td>
+			<td>
+			</td>
+			<td>
+			</td>
+			</tr>
+			<tr>
+			<td style="width: 384px">
+			<p style="height:200px"></p>
+			</td>
+			<td>
+			</td>
+			</tr>
+			
+			</table>
+		<!-- #EndEditable "content" --></div>
+	<!-- End Content -->
+	<!-- Begin Footer -->
+	<div id="footer" style="width: 736px;">
+		<p style="width: 736px;">
+		<a href="../../default.html">Home</a> &brvbar;
+		<a href="../../Seasonal_Camps/seasonalcamps_summer.htm">Seasonal Camps</a> &brvbar;
+		<a href="../lessons.htm">Lessons</a> &brvbar;
+		<a href="wandh.htm">Women and Horses</a> &brvbar;
+		<a href="../../Board_and_leases/Board_and_leases.htm">Boarding, Leasing &amp; Lessons</a> &brvbar;
+		<a href="../../Tours/tours.htm">School Tours</a> 
+		<a href="../../bdays/BDays.htm">Birthdays Parties</a> &brvbar; 
+		<a href="../../photo_gallery/photo_gallery.htm">Barnyard Buddies</a> &brvbar;
+		<a href="../../faq/faq.htm">FAQ</a> &brvbar;
+		<a href="../../Forms/Forms.htm">Registrations &amp; Releases</a> &brvbar;
+		<a href="../../contact/contact.htm">Contact Us</a> &brvbar;
+		<a href="../../credits/credits.htm">Credits</a></p>
+	</div>
+	<!-- End Footer --></div>
+<!-- End Container -->
+
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "master.dwt" -->
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta name='author' content="Shawn Clardon Corliss" />
+<meta name="keywords" content="horse back riding lessons,horse camps for kids,natural horsemanship in lethbridge,summer horse camps,horse birthday parties,farm school tours,childrens riding lessons in lethbridge,womens riding lessons in lethbridge,learning about horses" />
+<meta name="description" content="Serenity Equestrian" />
+<!-- #BeginEditable "doctitle" -->
+<title>~ Serenity Equestrian ~ Natural Horsemanship</title>
+<style type="text/css">
+
+
+
+
+
+
+.style1 {
+	margin-top: 0px;
+}
+.style2 {
+	margin-left: 0px;
+}
+</style>
+<!-- #EndEditable -->
+<link href="styles/style3.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<!-- Begin Container -->
+<div id="container" style="width: 740px;">
+	<!-- Begin Masthead -->
+	<div id="masthead" style="height: 205px; width: 736px;"></div>
+	<!-- End Masthead -->
+	<!-- Begin Navigation -->
+	<div id="navigation" style="left: 0px; top: 0px; height: 284px;">
+		<ul>
+			<li><a href="default.html">Home</a></li>
+			<li><a href="Seasonal_Camps/seasonalcamps_summer.htm">Seasonal Camps</a></li>
+			<li><a href="lessons/lessons.htm">Lessons</a></li>
+			<li><a href="lessons/Types/wandh.htm">Women and Horses</a></li>
+			<li><a href="Board_and_leases/Board_and_leases.htm">Boarding &amp; Leasing</a></li>
+			<li><a href="Tours/tours.htm">School Tours</a></li>
+			<li><a href="bdays/BDays.htm">Birthday Parties</a></li>
+			<li><a href="photo_gallery/photo_gallery.htm">Barnyard Buddies</a></li>
+			<li><a href="faq/faq.htm">FAQ</a></li>
+			<li><a href="Forms/Forms.htm">Registrations &amp; Releases</a></li>
+			<li><a href="contact/contact.htm">Contact Us</a></li>
+		</ul>
+	</div>
+	<!-- End Navigation -->
+	<!-- Begin Content -->
+	<div id="content" style="width: 557px;">
+		<!-- #BeginEditable "content" -->
+		<img alt="" height="254" src="images/horse_pic_3.jpg" width="380" class="style2" />
+		<h2 class="style1" style="height: 25px"> Relationship First</h2>
+		<p>Our mission is to build a relationship based on trust with our horses.  
+		This relationship is created from the heart, NOT the mind. 
+		The goal is to connect with our horses by using a shared language which allows us a greater understanding of both the horses and ourselves. 
+		</p>
+		<p>We teach and work with the horses in an environment that appreciates the intelligence of these amazing animals.  
+		Our focus is based on Trust, Respect and Safety and therefore no longer aligned with methods of obedience, submissiveness and control. 
+		By moving away from domination and into a partnership we communicate from the heart which allows for endless possibilities.</p>
+		<!-- #EndEditable "content" --></div>
+	<!-- End Content -->
+	<!-- Begin Footer -->
+	<div id="footer" style="width: 736px;">
+		<p style="width: 736px;">
+		<a href="default.html">Home</a> &brvbar;
+		<a href="Seasonal_Camps/seasonalcamps_summer.htm">Seasonal Camps</a> &brvbar;
+		<a href="lessons/lessons.htm">Lessons</a> &brvbar;
+		<a href="lessons/Types/wandh.htm">Women and Horses</a> &brvbar;
+		<a href="Board_and_leases/Board_and_leases.htm">Boarding, Leasing &amp; Lessons</a> &brvbar;
+		<a href="Tours/tours.htm">School Tours</a> 
+		<a href="bdays/BDays.htm">Birthdays Parties</a> &brvbar; 
+		<a href="photo_gallery/photo_gallery.htm">Barnyard Buddies</a> &brvbar;
+		<a href="faq/faq.htm">FAQ</a> &brvbar;
+		<a href="Forms/Forms.htm">Registrations &amp; Releases</a> &brvbar;
+		<a href="contact/contact.htm">Contact Us</a> &brvbar;
+		<a href="credits/credits.htm">Credits</a></p>
+	</div>
+	<!-- End Footer --></div>
+<!-- End Container -->
+
+</body>
+
+<!-- #EndTemplate -->
+
+</html>
